@@ -4,7 +4,7 @@
 ## Snapdeal Clone 
 
 
-Clone Site Link
+Clone Site 
 
 Link : https://0xdevsachin.github.io/CA-2/
 
