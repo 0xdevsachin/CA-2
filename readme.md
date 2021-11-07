@@ -17,7 +17,7 @@ Image :
 Clone Site
 
 <br>
-Link : https://0xdevsachin.github.io/ca2
+Link : https://0xdevsachin.github.io/CA-2/
 
 <br>
 Image :
